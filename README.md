@@ -7,8 +7,8 @@ El desarrollo del proyecto se fundamenta en el framework **Spring Boot** bajo el
 ---
 
 ## Integrantes del Grupo
-* Harol Velasco
-* Brandon Zafra
+* Harol Velasco-B193
+* Brandon Zafra-B191P
 
 ---
 
